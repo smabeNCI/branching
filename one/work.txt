@@ -1,2 +1,4 @@
 This is a sample file in folder one.
 This is an edit 
+
+A new line 
